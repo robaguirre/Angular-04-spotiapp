@@ -66,3 +66,9 @@ hr {
 .fadeIn {
     animation-name: fadeIn;
 }
+
+table tr td,
+table tr th {
+    background-color: rgba(30, 30, 30, 0.3) !important;
+    color: white !important;
+}
