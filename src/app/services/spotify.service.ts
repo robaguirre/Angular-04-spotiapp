@@ -10,7 +10,7 @@ import { map } from 'rxjs/operators';
 export class SpotifyService {
 
   apiUrl = 'https://api.spotify.com/v1/';
-  bearer = 'BQBZTOPXc6xMPkUJw0-57B3oj0TY4WMMW1ML2goQ-yXotoXieUPtQE6RQI5iWgoBp48uHaZAdnu569BCKTg';
+  bearer = 'BQBHYLijZKL1T9yBmGkpPqENyJWzyrXgxFK7ogBavqwe0vadbPR4EVk_y0VDEvJ4eaT1K2gKbWYKAP_oYH0';
 
   constructor(private http: HttpClient) { }
 
